@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37396#The-Strange-Story-Book
 gutenberg_issued: '2011-09-13'
 gutenberg_type: Text
 identifiers:
