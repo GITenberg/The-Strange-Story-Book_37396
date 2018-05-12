@@ -1,0 +1,57 @@
+_repo: The-Strange-Story-Book_37396
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Mrs.
+    aliases:
+    - Lang, Mrs. Andrew
+    - Lang, L. B. (Leonora Blanche)
+    - Lang, Leonora Blanche
+    gutenberg_agent_id: '32153'
+    url: http://www.gutenberg.org/2009/agents/32153
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2011-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: Preface by Mrs. Andrew Lang -- The drowned buccaneer -- The perplexity
+  of Zadig -- The return of the dead wife -- Young Amazon Snell -- The good Sir James
+  -- Rip van Winkle -- The wonderful basket -- The escape of the galley-slaves --
+  The beaver and the porcupine -- An old-world ghost -- The gentleman highwayman --
+  The vision of the Pope -- Growing-up-like-one-who-has-a-grandmother -- The handless
+  brigade -- The son of the Wolf Chief -- Blind Jack of Knaresborough -- Blind Jack
+  again -- The story of Djun -- What became of Owen Parfitt? -- Blackskin -- The pets
+  of Aurore Dupin -- The trials of M. Deschartres -- Aurore at play -- How Aurore
+  learned to ride -- Land-otter the Indian -- The disinheriting of a son -- The siege
+  of Rhodes -- The princess of Babylon -- The adventures of Fire-drill's son -- The
+  strange story of Elizabeth Canning -- Mrs. Veal's ghost -- The chief's daughter
+  -- The boyhood of a painter -- The adventures of a Spanish nun.
+title: The Strange Story Book
+url: http://www.gutenberg.org/ebooks/37396
