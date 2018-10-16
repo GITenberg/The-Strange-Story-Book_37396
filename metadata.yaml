@@ -43,6 +43,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Children''s stories'
 - !lcc 'PZ'
+- GITenberg
 tableOfContents: Preface by Mrs. Andrew Lang -- The drowned buccaneer -- The perplexity
   of Zadig -- The return of the dead wife -- Young Amazon Snell -- The good Sir James
   -- Rip van Winkle -- The wonderful basket -- The escape of the galley-slaves --
